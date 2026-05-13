@@ -30,8 +30,6 @@ body {
 
   /* background: white; */
 
-  color: #111;
-
   z-index: 100;
 
   box-sizing: border-box;
@@ -255,5 +253,21 @@ nav {
     line-height: 1.7;
 
   }
+
+}
+
+#menu a {
+
+  color: #111;
+
+  text-decoration: none;
+
+  transition: opacity 0.3s ease;
+
+}
+
+#menu a:hover {
+
+  opacity: 0.5;
 
 }
