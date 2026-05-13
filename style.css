@@ -30,6 +30,8 @@ body {
 
   /* background: white; */
 
+  color: #111;
+
   z-index: 100;
 
   box-sizing: border-box;
