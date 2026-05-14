@@ -28,7 +28,7 @@ body {
 
   padding: 24px 32px;
 
-  /* background: white; */
+  background: white;
 
   z-index: 100;
 
@@ -198,7 +198,7 @@ nav {
 
     padding: 20px;
 
-    /* background: white; */
+    background: white;
 
     z-index: 1000;
 
