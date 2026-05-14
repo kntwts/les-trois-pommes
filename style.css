@@ -34,8 +34,6 @@ body {
 
   box-sizing: border-box;
 
-  margin-bottom: 30px;
-
 }
 
 main {
@@ -207,6 +205,8 @@ nav {
     flex-wrap: wrap;
 
     gap: 10px 16px;
+
+    margin-bottom: 40px;
 
   }
 
