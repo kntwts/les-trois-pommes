@@ -198,7 +198,7 @@ nav {
 
     padding: 20px;
 
-    background: white;
+    /* background: white; */
 
     z-index: 1000;
 
@@ -228,7 +228,7 @@ nav {
 
   main {
 
-    padding-top: 160px;
+    padding-top: 80px;
 
   }
 
