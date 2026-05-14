@@ -186,13 +186,23 @@ nav {
 
   .site-header {
 
+    position: fixed;
+
+    top: 0;
+
+    left: 0;
+
+    width: 100%;
+
     display: block;
 
     padding: 20px;
 
-    position: relative;
+    background: white;
 
-    z-index: 100;
+    z-index: 1000;
+
+    box-sizing: border-box;
 
   }
 
@@ -212,15 +222,13 @@ nav {
 
     gap: 10px 16px;
 
-    margin-bottom: 48px;
-
     line-height: 1.4;
 
   }
 
   main {
 
-    padding-top: 0;
+    padding-top: 160px;
 
   }
 
@@ -267,7 +275,6 @@ nav {
   }
 
 }
-
 #menu a {
 
   color: #111;
